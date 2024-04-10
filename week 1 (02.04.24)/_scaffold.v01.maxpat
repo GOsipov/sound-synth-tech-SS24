@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 71.0, 110.0, 307.0, 611.0 ],
+		"rect" : [ 119.0, 118.0, 307.0, 611.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -39,6 +39,17 @@
 		"subpatcher_template" : "",
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-2",
+					"maxclass" : "newobj",
+					"numinlets" : 0,
+					"numoutlets" : 0,
+					"patching_rect" : [ 23.0, 274.0, 125.0, 22.0 ],
+					"text" : "go.midi.in.v01.maxpat"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-10",
 					"maxclass" : "newobj",
@@ -86,43 +97,22 @@
  ],
 		"lines" : [  ],
 		"dependency_cache" : [ 			{
-				"name" : "345836__krzysiunet__im-not-speaking-english.wav",
-				"bootpath" : "~/Desktop/Studio methods/_Classes/Max 10am/week 1 (02.04.24)/synth-tech-media-master/speech",
-				"patcherrelativepath" : "./synth-tech-media-master/speech",
-				"type" : "WAVE",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "400909__inspectorj__voice-request-25-where-i-am.wav",
-				"bootpath" : "~/Desktop/Studio methods/_Classes/Max 10am/week 1 (02.04.24)/synth-tech-media-master/speech",
-				"patcherrelativepath" : "./synth-tech-media-master/speech",
-				"type" : "WAVE",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "431165__inspectorj__voice-request-32-okay-chief-ch.wav",
-				"bootpath" : "~/Desktop/Studio methods/_Classes/Max 10am/week 1 (02.04.24)/synth-tech-media-master/speech",
-				"patcherrelativepath" : "./synth-tech-media-master/speech",
-				"type" : "WAVE",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "476652__inspectorj__request-40-open-the-door.wav",
-				"bootpath" : "~/Desktop/Studio methods/_Classes/Max 10am/week 1 (02.04.24)/synth-tech-media-master/speech",
-				"patcherrelativepath" : "./synth-tech-media-master/speech",
-				"type" : "WAVE",
+				"name" : "go.midi.in.v01.maxpat",
+				"bootpath" : "~/Desktop/Studio methods/_Classes/sound-synth-tech-SS24/week 1 (02.04.24)",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "go.sound.in.v01.maxpat",
-				"bootpath" : "~/Desktop/Studio methods/_Classes/Max 10am/week 1 (02.04.24)",
+				"bootpath" : "~/Desktop/Studio methods/_Classes/sound-synth-tech-SS24/week 1 (02.04.24)",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "go.sound.out.v01.maxpat",
-				"bootpath" : "~/Desktop/Studio methods/_Classes/Max 10am/week 1 (02.04.24)",
+				"bootpath" : "~/Desktop/Studio methods/_Classes/sound-synth-tech-SS24/week 1 (02.04.24)",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
