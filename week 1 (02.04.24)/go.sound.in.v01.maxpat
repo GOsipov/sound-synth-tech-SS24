@@ -70,6 +70,7 @@
 								"filename" : "431165__inspectorj__voice-request-32-okay-chief-ch.wav",
 								"filekind" : "audiofile",
 								"id" : "u153000787",
+								"selection" : [ 0.18125, 0.2 ],
 								"loop" : 0,
 								"content_state" : 								{
 
@@ -77,10 +78,10 @@
 
 							}
 , 							{
-								"absolutepath" : "/Users/mhl-electronic-studio-mbp-2/Desktop/Studio methods/_Classes/Max 10am/week 1 (02.04.24)/synth-tech-media-master/speech/476652__inspectorj__request-40-open-the-door.wav",
-								"filename" : "476652__inspectorj__request-40-open-the-door.wav",
+								"absolutepath" : "/Users/mhl-electronic-studio-mbp-2/Desktop/Studio methods/Samples/FOLDER01/Звуки колокола 8/ZOOM0062_LR.WAV",
+								"filename" : "ZOOM0062_LR.WAV",
 								"filekind" : "audiofile",
-								"id" : "u120000788",
+								"id" : "u909001842",
 								"loop" : 0,
 								"content_state" : 								{
 
@@ -558,37 +559,7 @@
 				}
 
 			}
- ],
-		"dependency_cache" : [ 			{
-				"name" : "345836__krzysiunet__im-not-speaking-english.wav",
-				"bootpath" : "~/Desktop/Studio methods/_Classes/Max 10am/week 1 (02.04.24)/synth-tech-media-master/speech",
-				"patcherrelativepath" : "./synth-tech-media-master/speech",
-				"type" : "WAVE",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "400909__inspectorj__voice-request-25-where-i-am.wav",
-				"bootpath" : "~/Desktop/Studio methods/_Classes/Max 10am/week 1 (02.04.24)/synth-tech-media-master/speech",
-				"patcherrelativepath" : "./synth-tech-media-master/speech",
-				"type" : "WAVE",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "431165__inspectorj__voice-request-32-okay-chief-ch.wav",
-				"bootpath" : "~/Desktop/Studio methods/_Classes/Max 10am/week 1 (02.04.24)/synth-tech-media-master/speech",
-				"patcherrelativepath" : "./synth-tech-media-master/speech",
-				"type" : "WAVE",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "476652__inspectorj__request-40-open-the-door.wav",
-				"bootpath" : "~/Desktop/Studio methods/_Classes/Max 10am/week 1 (02.04.24)/synth-tech-media-master/speech",
-				"patcherrelativepath" : "./synth-tech-media-master/speech",
-				"type" : "WAVE",
-				"implicit" : 1
-			}
- ],
-		"autosave" : 0
+ ]
 	}
 
 }
